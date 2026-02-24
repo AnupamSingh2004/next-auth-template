@@ -3,7 +3,7 @@
   <img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_dark_background.png" alt="Next.js Logo" width="80" />
   <h1 align="center">Next.js Authenticated Starter Template</h1>
   <p align="center">
-    A premium, award-winning authentication boilerplate built for modern edge web applications.
+
   </p>
 </div>
 
